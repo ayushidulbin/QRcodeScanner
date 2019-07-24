@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "896582827762",
+    "firebase_url": "https://loginpage-9fa74.firebaseio.com",
+    "project_id": "loginpage-9fa74",
+    "storage_bucket": "loginpage-9fa74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896582827762:android:c9e60ccc98a0f5e7",
+        "android_client_info": {
+          "package_name": "com.example.ayushi.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896582827762-rat2t96uj0vrh0b0hdur07s1vfsps419.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWcfEWd2pLpWoHa6FHexW06RRLLUAlj74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896582827762-rat2t96uj0vrh0b0hdur07s1vfsps419.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
